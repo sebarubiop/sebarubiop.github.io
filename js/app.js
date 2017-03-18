@@ -6,3 +6,7 @@ $(document).ready(function(){
     autoplaySpeed: 3000
   });
 });
+
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});

@@ -1,14 +1,21 @@
 
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
+body {
+    margin: 0;
+    padding: 0;
+}
 
-  .page-title{
-      text-align: center; 
-      font-size: 50px;
-  }
+
+img{
+    margin: auto;
+}
+.page-title{
+    text-align: center; 
+    font-size: 50px;
+}
+
+.title-skills{
+    text-align: center; 
+}
 
 .carousel-inner > .item > img {
     position: relative;
@@ -21,4 +28,22 @@
 
 .progress {
     width: 180px;
+}
+
+.img-border{
+    padding: 1px;
+    border: 1px solid #ddd;
+}
+
+.img-small {
+    width:35px;
+    height:35px;
+}
+
+td, th {
+    padding-left: 10px;
+}
+
+.center {
+    margin: auto;
 }
