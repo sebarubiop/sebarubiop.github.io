@@ -17,10 +17,7 @@ img{
     text-align: center; 
 }
 
-.carousel-inner > .item > img {
-    position: relative;
-    min-width: 80%;
-}
+
 
 .navbar-wrapper {
     position: initial;
