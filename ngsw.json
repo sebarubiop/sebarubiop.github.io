@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752411723598,
+  "timestamp": 1752412444736,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -28,7 +28,6 @@
         "/chunk-MKRX72D3.js",
         "/chunk-MQ2UR7UG.js",
         "/chunk-N6MHNUBR.js",
-        "/chunk-NMYMG4AB.js",
         "/chunk-PSIPXNWQ.js",
         "/chunk-RDZJRKIT.js",
         "/chunk-RMVHSFGS.js",
@@ -37,9 +36,10 @@
         "/chunk-U24K3GLD.js",
         "/chunk-Y3YZMMW7.js",
         "/chunk-Y6U2GVWN.js",
+        "/chunk-ZCEBAKQ5.js",
         "/favicon.ico",
         "/index.html",
-        "/main-EOINJZEY.js",
+        "/main-NSTXXJWD.js",
         "/manifest.json",
         "/polyfills-GSFR34EL.js",
         "/styles-RLQTYOGY.css"
@@ -101,8 +101,8 @@
     }
   ],
   "hashTable": {
-    "/assets/i18n/en.json": "e40e93af4e3ae694a41197e0abd1a8f31baac3c9",
-    "/assets/i18n/es.json": "3689990dbd87be44e2ac90aafdf98f09c085e9a4",
+    "/assets/i18n/en.json": "4870f717e52b301393b6fcbce13371d3947781dd",
+    "/assets/i18n/es.json": "d16519f6b2086f1fbaea7cf8587381fd1983dac7",
     "/assets/icons/favicon-16x16.png": "aff9265fb7e35460030ec00841823f54cfe25c34",
     "/assets/icons/favicon-32x32.png": "33facae121409a08457b47aff53be0303da867bb",
     "/assets/icons/icon-128x128.png": "4569f735b9ba2e2d8c18cc6cbf61998f0c34ea3c",
@@ -131,7 +131,6 @@
     "/chunk-MKRX72D3.js": "0674f62ea2a7a01356b38d09753e934695fa3788",
     "/chunk-MQ2UR7UG.js": "747b4922a1c525190ff96afceab6d8e11a0fe5c6",
     "/chunk-N6MHNUBR.js": "92924451efde5b5fbf157dd26e035676756614ef",
-    "/chunk-NMYMG4AB.js": "6c22e1d2098a522a2ec55d606ddba441ef4c8f12",
     "/chunk-PSIPXNWQ.js": "6aabd80f70b1c41425cb507c9084d4dee7e49117",
     "/chunk-RDZJRKIT.js": "414f60098c6796f3f4e2796c59b2d2e36de3d981",
     "/chunk-RMVHSFGS.js": "2682724f47da3e3fdbe1df53eb9b95e19385db2e",
@@ -140,9 +139,10 @@
     "/chunk-U24K3GLD.js": "e6732bac0c38d57f9d94c80f8265a3ed10dd427c",
     "/chunk-Y3YZMMW7.js": "87966b15db5e8c93ba901f334670416b27e5b967",
     "/chunk-Y6U2GVWN.js": "a33e6a74a9186bb469ac40f2a8402ec402dc56a3",
+    "/chunk-ZCEBAKQ5.js": "9fc78885fac071dcf07b042ffc672783f9518c58",
     "/favicon.ico": "33facae121409a08457b47aff53be0303da867bb",
-    "/index.html": "7c7d6d6e9573773d7d96c8e6849c2118f66d7edd",
-    "/main-EOINJZEY.js": "68e37e765113fc83b67d4d9e3d60b2354b084727",
+    "/index.html": "31071c218c4fb8fdc3cd5c346befaea90ca152d7",
+    "/main-NSTXXJWD.js": "9afd8fc02d0c70e3418d6d34252e4caec4945a3c",
     "/manifest.json": "a6da7780d3198b8d69dc71be7350aa0cb017bee7",
     "/polyfills-GSFR34EL.js": "8d693fbe0ae1bb13356a2d3cb1f865f3107d81c7",
     "/styles-RLQTYOGY.css": "64763a99d5fddc4cfb43c460b4b3eeb983b0f332"
