@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752407758198,
+  "timestamp": 1752408947791,
   "index": "https://sebarubiop.github.io/index.csr.html",
   "assetGroups": [
     {
@@ -28,13 +28,13 @@
         "https://sebarubiop.github.io/chunk-RDZJRKIT.js",
         "https://sebarubiop.github.io/chunk-RMVHSFGS.js",
         "https://sebarubiop.github.io/chunk-RY7L72BB.js",
+        "https://sebarubiop.github.io/chunk-TZ7C2YWA.js",
         "https://sebarubiop.github.io/chunk-U24K3GLD.js",
-        "https://sebarubiop.github.io/chunk-XQEIMYSV.js",
         "https://sebarubiop.github.io/chunk-Y3YZMMW7.js",
         "https://sebarubiop.github.io/chunk-Y6U2GVWN.js",
         "https://sebarubiop.github.io/favicon.ico",
         "https://sebarubiop.github.io/index.html",
-        "https://sebarubiop.github.io/main-XOWOGXRZ.js",
+        "https://sebarubiop.github.io/main-NW6LHHZY.js",
         "https://sebarubiop.github.io/manifest.json",
         "https://sebarubiop.github.io/polyfills-GSFR34EL.js",
         "https://sebarubiop.github.io/styles-RLQTYOGY.css"
@@ -85,8 +85,8 @@
     }
   ],
   "hashTable": {
-    "https://sebarubiop.github.io/assets/i18n/en.json": "b815035b206858cc2496bd0c8a4adb1e85f06503",
-    "https://sebarubiop.github.io/assets/i18n/es.json": "da665ee8a01d557a6216ad02c977731389fcf09f",
+    "https://sebarubiop.github.io/assets/i18n/en.json": "eee579f9336fc5243a232124bcdbea77f31caa00",
+    "https://sebarubiop.github.io/assets/i18n/es.json": "3efaed0b2b5e2f07e81ee7029f1a0271151cfe33",
     "https://sebarubiop.github.io/chunk-2H2S7TOM.js": "107189e1080d18b7aebdb292ef617fa4ad474b4b",
     "https://sebarubiop.github.io/chunk-3X6I2JXA.js": "b280e9769c7465421e53c2c88c611532a3f83b4d",
     "https://sebarubiop.github.io/chunk-4YFMLJCT.js": "6aa9e699a324953af0c5580dbc65bbc4a5e65090",
@@ -104,13 +104,13 @@
     "https://sebarubiop.github.io/chunk-RDZJRKIT.js": "414f60098c6796f3f4e2796c59b2d2e36de3d981",
     "https://sebarubiop.github.io/chunk-RMVHSFGS.js": "2682724f47da3e3fdbe1df53eb9b95e19385db2e",
     "https://sebarubiop.github.io/chunk-RY7L72BB.js": "ef20a28d65f14afe8cbb2a56f013395de97d24de",
+    "https://sebarubiop.github.io/chunk-TZ7C2YWA.js": "4f69883f7e0e86253378038e1bff345e90fa0130",
     "https://sebarubiop.github.io/chunk-U24K3GLD.js": "e6732bac0c38d57f9d94c80f8265a3ed10dd427c",
-    "https://sebarubiop.github.io/chunk-XQEIMYSV.js": "3f01f9b61f275e4d6429f9786888f3fb4dc663fa",
     "https://sebarubiop.github.io/chunk-Y3YZMMW7.js": "87966b15db5e8c93ba901f334670416b27e5b967",
     "https://sebarubiop.github.io/chunk-Y6U2GVWN.js": "a33e6a74a9186bb469ac40f2a8402ec402dc56a3",
     "https://sebarubiop.github.io/favicon.ico": "4ffaefe05b6ae055ae2ee36b8cc2d6cf5d00498b",
-    "https://sebarubiop.github.io/index.html": "125d52bf6a1b10ef088e0c7ee66993373b39e183",
-    "https://sebarubiop.github.io/main-XOWOGXRZ.js": "a720bd38ac61481094e8c273863eeabc87eda5da",
+    "https://sebarubiop.github.io/index.html": "858f960fabc3cc3730905ea9e84c5a241bdb41d6",
+    "https://sebarubiop.github.io/main-NW6LHHZY.js": "08fc153a5392fbaefd5d4bf4889b7b1ad9184cad",
     "https://sebarubiop.github.io/manifest.json": "a6da7780d3198b8d69dc71be7350aa0cb017bee7",
     "https://sebarubiop.github.io/polyfills-GSFR34EL.js": "8d693fbe0ae1bb13356a2d3cb1f865f3107d81c7",
     "https://sebarubiop.github.io/styles-RLQTYOGY.css": "64763a99d5fddc4cfb43c460b4b3eeb983b0f332"
